@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">پیغام های پرسشی از کاربر</string>
+    <string name="btn_for_dialog">نمایش پیغام سؤالی</string>
+    <string name="dialog_title">خروج</string>
+    <string name="dialog_text">آیا مایلید از این برنامه خارج شوید ؟؟؟ \n یکی از دکمه ها را انتخاب نمائید</string>
+    <string name="dialog_btn1">بله</string>
+    <string name="dialog_btn2">خیر</string>
+    <string name="dialog_btn3">به من کمک کن</string>
+    <string name="dialog_btn3_text">شما روی دکمه ی راهنمایی به من ، کلیک نموده اید</string>
+</resources>
